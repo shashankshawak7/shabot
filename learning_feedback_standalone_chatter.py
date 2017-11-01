@@ -155,5 +155,6 @@ elif user_input == '2':
     talking_mode()
     print(prev_statement)
 elif user_input == '3':
+    print("connect via the client and then say something")
     Main()    
 
