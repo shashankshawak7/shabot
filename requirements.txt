@@ -2,7 +2,7 @@ asn1crypto==0.22.0
 attrs==17.2.0
 Automat==0.6.0
 beautifulsoup4==4.6.0
-bleach==1.5.0
+bleach==3.1.1
 bokeh==0.12.9
 cffi==1.10.0
 chardet==2.3.0
