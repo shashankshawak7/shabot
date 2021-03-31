@@ -41,7 +41,7 @@ keyring==10.3.1
 keyrings.alt==2.2
 language-selector==0.1
 line==0.8.2
-lxml==3.8.0
+lxml==4.6.3
 Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.0.2
