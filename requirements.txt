@@ -91,7 +91,7 @@ rsa==3.4.2
 ruamel.yaml==0.15.0
 scikit-learn==0.19.0
 scipy==0.19.1
-Scrapy==1.4.0
+Scrapy==2.6.1
 seaborn==0.8.1
 SecretStorage==2.3.1
 service-identity==17.0.0
